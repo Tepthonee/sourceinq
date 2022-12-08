@@ -1,9 +1,9 @@
 {
-    "name": "سورس ريك ثون",
+    "name": "TEPTHON USERBOT- تيبثون العربي",
     "description": "اللهم صل على محمد وآل محمد",
     "addons": ["scalingo-postgresql"],
-    "keywords": ["rickthon", "userbot","scalingo"],
-    "repository": "https://github.com/rick1128/rickthoniq",
+    "keywords": ["tepthon", "userbot","scalingo"],
+    "repository": "https://github.com/Tepthonee/sourceinq",
   "stack": "container",
     "env": {
         "ALIVE_NAME": {
